@@ -1,0 +1,1246 @@
+2025-03-08 10:22:47.928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 10:22:51.943 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 10:22:52.903 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 10:22:57.377 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 10:22:58.315 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 11:04:40.182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 11:04:45.577 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 11:04:46.497 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 11:04:50.401 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 11:04:51.351 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 11:32:12.407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 11:49:30.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 11:52:04.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 11:53:53.329 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 11:54:59.645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 11:55:35.982 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 11:55:37.253 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 11:58:08.219 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 11:58:09.463 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 11:59:57.034 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 11:59:58.111 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:00:16.524 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 12:00:24.824 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:00:26.111 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:10:02.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 12:10:11.651 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:10:13.267 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:12:08.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 12:12:12.160 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:12:13.269 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:12:23.060 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:12:25.030 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:15:37.243 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 12:15:45.052 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:15:46.028 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:15:51.401 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:15:52.358 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:16:01.157 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:16:02.036 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:17:30.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT2_docker.xml
+
+2025-03-08 12:17:34.236 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:17:35.345 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:17:41.692 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:17:42.857 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:42:42.971 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT2_docker.xml
+
+2025-03-08 12:42:49.288 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:42:50.713 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:42:58.000 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:42:59.366 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:48:44.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT2_docker.xml
+
+2025-03-08 12:48:48.224 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:48:49.391 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:48:55.448 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:48:56.695 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:49:02.374 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:49:04.351 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:49:52.301 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 12:49:57.403 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:49:58.381 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:50:05.180 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:50:07.056 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 12:50:16.325 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 12:50:17.145 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:12:07.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:12:13.265 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:12:15.329 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:12:21.909 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:12:24.704 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:12:33.483 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:12:34.642 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:16:06.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:16:12.286 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:16:13.276 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:16:22.511 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:16:23.545 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:16:33.646 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:16:34.483 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:34:27.435 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:34:33.573 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:34:34.745 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:34:35.065 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:34:36.422 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:34:36.575 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:34:37.490 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:36:51.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:36:57.380 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:36:58.899 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:36:59.466 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:37:00.318 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:37:01.721 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:37:03.031 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 13:39:11.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:39:17.456 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:39:18.926 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:39:20.238 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:42:49.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:42:55.877 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:42:59.387 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:43:01.337 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:48:15.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:48:23.611 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:48:25.386 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:48:25.411 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:49:40.923 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:49:48.935 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:49:50.639 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:49:50.672 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:52:45.126 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:52:51.183 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:52:53.199 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:52:54.696 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:55:40.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:55:46.469 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:55:48.927 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:55:51.721 [TestNG-tests-3] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 13:58:29.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 13:58:36.182 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:00:34.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:00:41.556 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:00:41.556 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:02:26.429 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:02:33.388 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:02:33.388 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:04:16.931 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:04:16.931 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:08:20.923 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:08:28.022 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:08:28.023 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:09:14.279 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:09:19.321 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:09:20.287 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:09:27.428 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:09:28.393 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:11:27.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:11:32.065 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:11:39.217 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:12:33.906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:12:40.672 [TestNG-tests-1] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:12:40.672 [TestNG-tests-2] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:14:04.272 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:14:09.859 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:14:18.253 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:14:29.503 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:19:26.837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:19:44.613 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:19:46.124 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:19:53.927 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:19:54.901 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:20:03.959 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:20:05.098 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:22:28.166 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:22:34.938 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:22:36.124 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:22:43.576 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:22:45.838 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:22:58.753 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:22:59.842 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:26:47.611 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:26:48.540 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:26:55.684 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:26:56.672 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:27:06.050 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:27:07.487 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:34:06.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:34:12.406 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:34:13.364 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:34:20.859 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:34:22.066 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:34:31.217 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:34:32.722 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 14:50:08.547 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:52:47.007 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:54:05.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-03-08 14:54:05.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-03-08 14:54:05.906 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.906 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-03-08 14:54:05.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-03-08 14:54:05.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.941 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-03-08 14:54:05.945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.946 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-03-08 14:54:05.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 14:54:05.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 14:54:05.962 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-1641860713\testng-customsuite.xml
+
+2025-03-08 14:54:06.054 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-03-08 14:54:06.304 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2b95e48b: 108 ms
+2025-03-08 14:54:06.321 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6111ba37: 16 ms
+2025-03-08 14:54:06.351 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b7ea70d: 30 ms
+2025-03-08 14:54:06.368 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a62c01e: 17 ms
+2025-03-08 14:54:06.379 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@485a3466: 10 ms
+2025-03-08 14:54:06.380 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@25748410: 1 ms
+2025-03-08 14:58:05.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 14:58:11.241 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 14:58:12.458 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 14:58:12.478 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 14:58:12.517 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 14:58:12.530 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 14:58:12.540 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 15:05:52.150 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:05:59.227 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:06:00.660 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:06:00.678 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:06:00.719 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 15:06:00.734 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:06:00.745 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 15:21:07.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:21:16.182 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:21:17.130 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:21:17.151 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:21:17.189 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 15:21:17.202 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:21:17.211 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 15:26:28.954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:26:35.248 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:26:36.475 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:26:36.495 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:26:36.538 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 15:26:36.553 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:26:36.565 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 15:27:58.685 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:28:04.552 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:28:05.509 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:28:05.529 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 15:28:05.573 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 15:28:05.588 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:28:05.627 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 15:28:05.631 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:28:05.639 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 15:29:22.926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:29:28.520 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:29:30.524 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:29:30.543 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 15:29:30.740 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:29:30.892 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:30:55.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:31:02.580 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:31:04.102 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:31:04.123 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 15:31:04.162 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 15:31:04.177 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:31:04.210 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 15:31:04.213 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:31:04.222 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 15:33:20.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:34:10.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:36:39.970 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:36:46.780 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:36:47.975 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:36:47.997 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 15:36:48.036 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 15:36:48.050 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:36:48.083 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 15:36:48.088 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:36:48.095 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 15:46:16.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:47:58.197 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:50:44.802 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml
+
+2025-03-08 15:50:49.259 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 15:50:50.197 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 15:50:50.223 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 15:50:50.266 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 15:50:50.285 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 15:50:50.321 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 15:50:50.326 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 15:50:50.334 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 16:35:03.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-08 16:35:03.806 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-03-08 16:35:03.808 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.808 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.809 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.809 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.809 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.810 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-03-08 16:35:03.832 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-03-08 16:35:03.833 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.835 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.835 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.836 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.836 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.838 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.838 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.844 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-08 16:35:03.845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-08 16:35:03.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 16:35:03.847 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 16:35:03.856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse--692935248\testng-customsuite.xml
+
+2025-03-08 16:35:03.882 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-03-08 16:35:04.152 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@78fbff54: 111 ms
+2025-03-08 16:35:04.169 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@aa549e5: 17 ms
+2025-03-08 16:35:04.186 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60641ec8: 17 ms
+2025-03-08 16:35:04.197 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58c34bb3: 10 ms
+2025-03-08 16:35:04.204 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@207b8649: 7 ms
+2025-03-08 16:35:04.204 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@65b3a85a: 0 ms
+2025-03-08 16:39:11.358 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC002.xml
+
+2025-03-08 16:39:17.846 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 16:39:18.127 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 16:40:14.081 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC002.xml
+
+2025-03-08 16:40:18.470 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 16:40:18.777 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 16:40:54.437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-08 16:40:58.563 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 16:40:59.519 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 16:40:59.544 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 16:40:59.589 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 16:40:59.604 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 16:40:59.637 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 16:40:59.640 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 16:40:59.648 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 16:41:03.556 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 16:41:03.818 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 16:42:41.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-08 16:42:45.797 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 16:42:46.792 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 16:42:46.812 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 16:42:46.854 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 16:42:46.868 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 16:42:46.900 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 16:42:46.903 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 16:42:46.910 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 16:42:50.619 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 16:42:51.544 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 17:04:05.967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC003.xml
+
+2025-03-08 17:04:27.516 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.528 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-08 17:04:27.538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.539 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.540 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.543 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.543 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-03-08 17:04:27.563 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-03-08 17:04:27.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.565 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.570 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.570 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-08 17:04:27.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:27.578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:27.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-253627480\testng-customsuite.xml
+
+2025-03-08 17:04:27.617 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-03-08 17:04:28.042 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@78fbff54: 235 ms
+2025-03-08 17:04:28.054 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@aa549e5: 12 ms
+2025-03-08 17:04:28.081 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60641ec8: 27 ms
+2025-03-08 17:04:28.090 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58c34bb3: 9 ms
+2025-03-08 17:04:28.097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@207b8649: 7 ms
+2025-03-08 17:04:28.097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@65b3a85a: 0 ms
+2025-03-08 17:04:28.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.638 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-08 17:04:28.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.649 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-03-08 17:04:28.659 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-03-08 17:04:28.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.665 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.669 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.671 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.672 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-08 17:04:28.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-08 17:04:28.683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-104344906\testng-customsuite.xml
+
+2025-03-08 17:04:28.705 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-03-08 17:04:28.942 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@78fbff54: 130 ms
+2025-03-08 17:04:28.960 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@aa549e5: 18 ms
+2025-03-08 17:04:28.979 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60641ec8: 18 ms
+2025-03-08 17:04:28.997 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58c34bb3: 18 ms
+2025-03-08 17:04:29.009 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@207b8649: 12 ms
+2025-03-08 17:04:29.010 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@65b3a85a: 0 ms
+2025-03-08 17:05:44.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC003.xml
+
+2025-03-08 17:05:48.711 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-08 17:05:49.069 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ends ***** 
+2025-03-08 17:07:00.354 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC003.xml
+
+2025-03-08 17:07:04.636 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-08 17:07:04.983 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ends ***** 
+2025-03-08 17:09:30.469 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-08 17:09:35.617 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 17:09:35.906 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 17:09:35.923 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 17:09:41.169 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 17:09:46.348 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 17:09:50.011 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 17:09:50.336 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-08 17:09:53.970 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-08 17:09:54.298 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ends ***** 
+2025-03-08 17:10:48.607 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-08 17:10:52.942 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 17:10:53.233 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 17:10:53.250 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 17:10:58.435 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 17:11:03.616 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 17:11:46.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-08 17:11:50.468 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 17:11:51.387 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 17:11:51.411 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 17:11:51.451 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 17:11:51.465 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 17:11:51.499 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 17:11:51.503 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 17:11:51.515 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-08 17:11:56.643 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-08 17:11:56.967 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-08 17:12:00.434 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-08 17:12:00.765 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ends ***** 
+2025-03-08 17:14:57.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC001.xml
+
+2025-03-08 17:15:02.908 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-08 17:15:03.850 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-08 17:15:03.873 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-08 17:15:03.912 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-08 17:15:03.926 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-08 17:15:03.960 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-08 17:15:03.964 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-08 17:15:03.973 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-09 09:50:52.958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 09:52:32.329 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 09:54:13.975 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 09:55:30.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 09:56:17.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 10:04:46.410 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 10:22:57.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC005.xml
+
+2025-03-09 10:32:55.795 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC005.xml
+
+2025-03-09 10:35:42.468 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC005.xml
+
+2025-03-09 10:36:02.776 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 11:09:01.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 11:21:17.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 11:22:15.747 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 11:33:59.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC007.xml
+
+2025-03-09 11:37:22.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC007.xml
+
+2025-03-09 11:43:32.486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC007.xml
+
+2025-03-09 11:48:52.664 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC008.xml
+
+2025-03-09 11:50:31.461 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC008.xml
+
+2025-03-09 11:51:39.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC008.xml
+
+2025-03-09 11:56:31.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC001.xml
+
+2025-03-09 11:56:41.473 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 11:56:44.830 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 11:56:44.847 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 11:56:44.890 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 11:56:44.902 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test started ***** 
+2025-03-09 11:56:44.941 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verifymsg test end ***** 
+2025-03-09 11:56:44.945 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Started ***** 
+2025-03-09 11:56:44.956 [main] INFO  testCases.TC001_PositiveLoginTest - ***** Positive Url Test Started Ended ***** 
+2025-03-09 11:58:23.841 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC002.xml
+
+2025-03-09 11:58:29.995 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 11:58:31.327 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-09 11:59:46.646 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC003.xml
+
+2025-03-09 11:59:52.640 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 11:59:53.970 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-09 12:02:17.597 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 12:02:23.628 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:02:29.767 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:05:49.589 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 12:05:56.475 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:06:03.224 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:06:17.699 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 12:06:24.534 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:06:31.057 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:06:50.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 12:06:56.500 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:07:03.179 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:10:18.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC004.xml
+
+2025-03-09 12:10:28.453 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:10:34.758 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****NoSuchElementExceptionTest Started ****
+2025-03-09 12:17:15.101 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-09 12:17:21.150 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 12:17:23.250 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 12:17:23.278 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 12:17:23.336 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 12:17:23.368 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-09 12:17:23.406 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-09 12:17:23.410 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-09 12:17:23.418 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-09 12:17:29.235 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:17:36.559 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 12:17:37.757 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-09 12:17:43.619 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-09 12:17:50.157 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-09 12:17:57.089 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-09 12:18:04.123 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-09 12:18:10.058 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:18:17.368 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-09 12:18:23.388 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-09 12:18:29.645 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-09 12:18:36.222 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-09 12:20:19.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC002.xml
+
+2025-03-09 12:20:25.829 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:20:27.085 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-09 12:22:42.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 12:22:48.969 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:22:50.886 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 12:23:28.132 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-09 12:23:34.973 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 12:23:37.558 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 12:23:37.590 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 12:23:37.644 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 12:23:37.673 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-09 12:23:37.708 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-09 12:23:37.717 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-09 12:23:37.724 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-09 12:23:44.582 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:23:46.331 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-09 12:23:57.366 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 12:23:58.646 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-09 12:24:04.136 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-09 12:24:10.256 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-09 12:24:17.364 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-09 12:24:24.061 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-09 12:24:31.720 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:24:39.309 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-09 12:24:45.368 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-09 12:24:50.857 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-09 12:24:56.930 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-09 12:27:04.827 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 12:27:13.347 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:29:57.336 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 12:30:03.720 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:30:05.710 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 12:32:12.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 12:32:20.202 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:33:09.095 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 12:33:15.238 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:33:16.530 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 12:34:02.314 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-09 12:34:08.650 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 12:34:12.610 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 12:34:12.634 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 12:34:12.691 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 12:34:12.720 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-09 12:34:12.762 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-09 12:34:12.768 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-09 12:34:12.779 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-09 12:34:18.215 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:34:29.553 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 12:34:31.357 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-09 12:34:38.819 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-09 12:34:47.059 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-09 12:34:54.017 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-09 12:35:00.744 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-09 12:35:06.569 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:35:08.000 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 12:35:15.276 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-09 12:35:21.792 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-09 12:35:30.020 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-09 12:35:36.527 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-09 12:36:16.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC002.xml
+
+2025-03-09 12:36:25.872 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:36:53.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 12:37:18.273 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:37:21.048 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 12:37:35.421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC002.xml
+
+2025-03-09 12:37:43.265 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:37:46.442 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-09 12:37:59.830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-09 12:38:10.227 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 12:38:12.822 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 12:38:12.855 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 12:38:12.978 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 12:38:13.003 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-09 12:38:13.061 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-09 12:38:13.084 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-09 12:38:13.096 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-09 12:38:25.294 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:38:34.769 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 12:38:43.795 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-09 12:38:50.570 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-09 12:39:08.426 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-09 12:39:15.583 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-09 12:39:24.756 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:39:38.491 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-09 12:39:49.393 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-09 12:40:45.099 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-09 12:41:00.077 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-09 12:47:01.874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-09 12:47:13.261 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 12:47:16.452 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 12:47:16.476 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 12:47:16.520 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 12:47:16.536 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-09 12:47:16.570 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-09 12:47:16.577 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-09 12:47:16.587 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-09 12:47:26.744 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:47:35.560 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 12:47:37.325 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-09 12:47:43.873 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-09 12:47:50.523 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-09 12:47:58.710 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-09 12:48:06.050 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-09 12:48:13.568 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:48:23.675 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-09 12:48:37.301 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-09 12:48:45.041 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-09 12:48:51.654 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-09 12:49:56.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC002.xml
+
+2025-03-09 12:50:02.881 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 12:50:04.250 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-09 12:51:23.228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC006.xml
+
+2025-03-09 12:51:29.506 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 12:51:31.347 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 12:59:41.104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-09 12:59:47.989 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 12:59:51.052 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 12:59:51.082 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 12:59:51.145 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 12:59:51.181 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-09 12:59:51.219 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-09 12:59:51.232 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-09 12:59:51.240 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-09 12:59:57.253 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 13:00:01.590 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-09 13:00:07.789 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 13:00:10.733 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-09 13:00:16.889 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-09 13:00:23.466 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-09 13:00:29.486 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-09 13:00:36.257 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-09 13:00:43.360 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 13:00:48.263 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 13:00:57.761 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-09 13:01:09.288 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-09 13:01:15.988 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-09 13:01:22.876 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-09 13:03:33.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-09 13:03:52.747 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-09 13:04:05.721 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-09 13:04:05.746 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-09 13:04:05.801 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-09 13:04:05.846 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-09 13:04:05.919 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-09 13:04:05.923 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-09 13:04:05.935 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-09 13:04:17.958 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-09 13:04:22.469 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-09 13:04:31.701 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-09 13:04:34.577 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-09 13:04:42.647 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-09 13:04:49.910 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-09 13:04:56.939 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-09 13:05:05.409 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-09 13:05:11.776 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-09 13:05:16.549 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-09 13:05:26.020 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-09 13:05:36.045 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-09 13:05:45.384 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-09 13:05:52.412 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-09 20:58:21.526 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC009.xml
+
+2025-03-10 18:49:33.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC009.xml
+
+2025-03-10 18:50:38.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC009.xml
+
+2025-03-10 18:50:48.917 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 18:50:51.022 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 18:50:51.059 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 18:50:51.771 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 18:50:52.481 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 18:50:53.769 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:16:32.280 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC009.xml
+
+2025-03-10 19:16:38.356 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:16:39.719 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:16:39.745 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:16:43.152 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:16:43.163 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:16:44.024 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:16:44.026 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:16:44.712 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:16:44.721 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:16:45.236 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:16:45.243 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:16:46.090 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:18:12.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\Master.xml
+
+2025-03-10 19:18:16.664 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login started ***** 
+2025-03-10 19:18:19.415 [main] INFO  testCases.TC001_PositiveLoginTest - ***** login end ***** 
+2025-03-10 19:18:19.442 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test started ***** 
+2025-03-10 19:18:19.500 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify logout button test ended ***** 
+2025-03-10 19:18:19.537 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test started ***** 
+2025-03-10 19:18:19.572 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify congratulations msg test end ***** 
+2025-03-10 19:18:19.577 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Started ***** 
+2025-03-10 19:18:19.588 [main] INFO  testCases.TC001_PositiveLoginTest - ***** verify Url Test Started Ended ***** 
+2025-03-10 19:18:23.436 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test started ***** 
+2025-03-10 19:18:28.236 [main] INFO  testCases.TC002_NegativeUserNameTest - ***** Negative username test ended ***** 
+2025-03-10 19:18:38.991 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test started ***** 
+2025-03-10 19:18:40.669 [main] INFO  testCases.TC003_NegativePasswordTest - ***** Negative password test ended ***** 
+2025-03-10 19:18:45.326 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input Started ****
+2025-03-10 19:18:51.536 [main] INFO  testCases.TC004_NoSuchElementExceptionTest -  ****verifyrow2input ended ****
+2025-03-10 19:18:56.550 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest Started ***** 
+2025-03-10 19:19:02.843 [main] INFO  testCases.TC005_ElementNotInteractableExceptionTest - ***** ElementNotInteractableExceptionTest ended ***** 
+2025-03-10 19:19:08.870 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput Started ***** 
+2025-03-10 19:19:12.289 [main] INFO  testCases.TC006_InvalidElementStateExceptionTest - ***** disabledinput ended ***** 
+2025-03-10 19:19:16.831 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved Started ***** 
+2025-03-10 19:19:22.932 [main] INFO  testCases.TC007_StaleElementReferenceExceptionTest - ***** verifyinstuctiondisremoved ended ***** 
+2025-03-10 19:19:27.689 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed Started ***** 
+2025-03-10 19:19:33.837 [main] INFO  testCases.TC008_TimeoutExceptionTest - ***** verifysecondinputDisplayed ended ***** 
+2025-03-10 19:19:39.651 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:19:40.822 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:19:40.824 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:19:42.256 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:19:42.258 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:19:43.035 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:19:43.038 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:19:43.855 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:19:43.857 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:19:44.306 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-10 19:19:44.308 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data started ***** 
+2025-03-10 19:19:44.854 [main] INFO  testCases.TC009_LoginDDTTest - ***** login from excel data end ***** 
+2025-03-11 18:04:36.077 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:08:52.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:10:48.729 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:15:30.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:16:05.152 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:31:28.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:38:03.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:39:00.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:40:20.063 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 18:58:42.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 19:02:57.090 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 19:10:39.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 19:12:00.328 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 19:12:50.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 19:13:46.382 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 19:43:03.757 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 19:44:41.140 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC011.xml
+
+2025-03-11 19:45:45.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC011.xml
+
+2025-03-11 20:16:59.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC011.xml
+
+2025-03-11 20:22:27.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-11 20:24:00.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 06:24:39.039 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC011.xml
+
+2025-03-12 06:38:08.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 06:40:59.201 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 06:54:24.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 06:57:20.399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 06:58:49.169 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:10:41.297 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:11:24.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:12:53.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:40:04.659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:45:49.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:49:06.024 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:51:12.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:52:11.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:52:47.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 07:55:03.021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 08:12:36.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 08:15:32.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 08:16:39.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 08:22:53.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 08:24:26.285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 08:26:34.793 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:26:45.889 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:28:49.777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:29:34.746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:30:09.596 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:33:30.046 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:40:32.371 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:48:51.890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:50:16.323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 17:52:46.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:03:39.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:04:14.462 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:04:48.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:13:49.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:14:22.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:17:05.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:17:37.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:18:09.501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:19:46.884 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:22:41.894 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC010.xml
+
+2025-03-12 18:27:10.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC011.xml
+
+2025-03-13 06:00:10.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC009.xml
+
+2025-03-13 06:00:18.445 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data started ***** 
+2025-03-13 06:00:19.905 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data end ***** 
+2025-03-13 06:00:19.919 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data started ***** 
+2025-03-13 06:00:21.127 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data end ***** 
+2025-03-13 06:00:21.130 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data started ***** 
+2025-03-13 06:00:21.560 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data end ***** 
+2025-03-13 06:00:21.572 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data started ***** 
+2025-03-13 06:00:22.420 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data end ***** 
+2025-03-13 06:00:22.423 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data started ***** 
+2025-03-13 06:00:23.194 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data end ***** 
+2025-03-13 06:00:23.197 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data started ***** 
+2025-03-13 06:00:23.675 [main] INFO  testCases.TC009_LoginDDTest - ***** login from excel data end ***** 
+2025-03-13 06:11:53.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 06:15:36.646 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 06:16:55.477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 06:39:51.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 06:43:11.184 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 06:48:09.508 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 06:53:50.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:14:07.152 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:24:33.367 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:27:29.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:29:35.445 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:33:49.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:36:18.345 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:39:08.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 07:46:43.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 08:13:28.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+
+2025-03-13 09:24:15.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\java\selenium\webdriver\PracticeAutomation\TC012.xml
+

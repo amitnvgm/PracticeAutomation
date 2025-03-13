@@ -1,0 +1,45 @@
+how to run test cases on docker 
+_____________________________________
+property file specify environment : remote
+in xml file set parameters
+os = "Linux"
+browser name
+
+open docker software 
+
+in eclips - open where docker.compose.yml file located
+open cmd
+ run command:  docker-compose up -d
+go to xml file righ click and run as TestNG Suit
+check sessions here : http://localhost:4444/
+
+*******************************************************************************************
+how to run test cases from pom.xml
+
+install maven os level 
+downalod binary file of maven : https://maven.apache.org/download.cgi
+extract it and save it to c>programfile
+set system variable path till bin folder 
+check intallation : mvt -version
+
+1. add maven-compiler-plugin to pom.xml
+2.add maven-surefire-plugin to pom.xml
+
+3. add which xml file you want to run ex :<suiteXmlFile>master.xml</suiteXmlFile>
+4. save and righ click in pom.xml-> run as maven test
+
+*********************************************************************************************
+
+how to run test cases from command prompt
+
+1. first update pom.xml with using above steps
+2. now go to project location and open cmd
+3. run command : mvn test
+
+create bat file (executable file)
+
+save text file with .bat extension
+add : cd project location mvn test   (to .bat file, and click on bat file) 
+
+**********************************************************************************************
+
