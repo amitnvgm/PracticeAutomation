@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 3 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Suite" class="navigator-link">
-              <span class="suite-name border-passed">Suite</span>
+              <span class="suite-name border-failed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -50,12 +50,12 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml</span>
+                    <span>E:\java\selenium\webdriver\PracticeAutomation\Master.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
                   <a href="#" panel-name="testlist-Suite" class="navigator-link ">
-                    <span class="test-stats">3 tests</span>
+                    <span class="test-stats">1 test</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,31 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">3 methods,   3 passed</span>
+                    <span class="method-stats">24 methods, 3 failed,   21 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC005_ElementNotInteractableExceptionTest" class="method navigator-link" hash-for-method="ElementNotInteractableExceptionTest">ElementNotInteractableExceptionTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC010_ContactFormTest" class="method navigator-link" hash-for-method="contactform">contactform</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC012_BrokenLinksTest" class="method navigator-link" hash-for-method="isBrokenLinkExist">isBrokenLinkExist</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,12 +127,102 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC001_PositiveLoginTest" class="method navigator-link" hash-for-method="verifyurl">verifyurl</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC011_ContactFormDDTest" class="method navigator-link" hash-for-method="contactform(, shah, s@gmail.com, I am student, Invalid)">contactform(, shah, s@gmail.com, I am student, Invalid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC001_PositiveLoginTest" class="method navigator-link" hash-for-method="verifyurl">verifyurl</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC011_ContactFormDDTest" class="method navigator-link" hash-for-method="contactform(jay, , j@gmail.com, I am teacher, Invalid)">contactform(jay, , j@gmail.com, I am teacher, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC011_ContactFormDDTest" class="method navigator-link" hash-for-method="contactform(brijesha, patel, b@gmail.com, , invalid)">contactform(brijesha, patel, b@gmail.com, , invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC011_ContactFormDDTest" class="method navigator-link" hash-for-method="contactform(meera, Patel, m.com, I am teacher, Invalid)">contactform(meera, Patel, m.com, I am teacher, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC011_ContactFormDDTest" class="method navigator-link" hash-for-method="contactform(raj, patel, r@gmail.com, I am student, Valid)">contactform(raj, patel, r@gmail.com, I am student, Valid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC011_ContactFormDDTest" class="method navigator-link" hash-for-method="contactform(kabie, Patel, , I am student, Invalid)">contactform(kabie, Patel, , I am student, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC006_InvalidElementStateExceptionTest" class="method navigator-link" hash-for-method="disabledinput">disabledinput</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC009_LoginDDTest" class="method navigator-link" hash-for-method="dtdlogin(student, xyz123, Invalid)">dtdlogin(student, xyz123, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC009_LoginDDTest" class="method navigator-link" hash-for-method="dtdlogin(abc, Password123, Invalid)">dtdlogin(abc, Password123, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC009_LoginDDTest" class="method navigator-link" hash-for-method="dtdlogin(student, Password123, Valid)">dtdlogin(student, Password123, Valid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC009_LoginDDTest" class="method navigator-link" hash-for-method="dtdlogin(, pqr1, Invalid)">dtdlogin(, pqr1, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC009_LoginDDTest" class="method navigator-link" hash-for-method="dtdlogin(std, , Invalid)">dtdlogin(std, , Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC009_LoginDDTest" class="method navigator-link" hash-for-method="dtdlogin(prq, , Invalid)">dtdlogin(prq, , Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC001_PositiveLoginTest" class="method navigator-link" hash-for-method="logoutbtncheck">logoutbtncheck</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC003_NegativePasswordTest" class="method navigator-link" hash-for-method="negativepassword">negativepassword</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC002_NegativeUserNameTest" class="method navigator-link" hash-for-method="negativeusername">negativeusername</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC001_PositiveLoginTest" class="method navigator-link" hash-for-method="verifycongratulationmsg">verifycongratulationmsg</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC007_StaleElementReferenceExceptionTest" class="method navigator-link" hash-for-method="verifyinstuctiondisremoved">verifyinstuctiondisremoved</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC004_NoSuchElementExceptionTest" class="method navigator-link" hash-for-method="verifyrow2input">verifyrow2input</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC008_TimeoutExceptionTest" class="method navigator-link" hash-for-method="verifysecondinputDisplayed">verifysecondinputDisplayed</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -128,6 +242,296 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">testCases.TC005_ElementNotInteractableExceptionTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ElementNotInteractableExceptionTest">
+                  </a> <!-- ElementNotInteractableExceptionTest -->
+                  <span class="method-name">ElementNotInteractableExceptionTest</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@id=&apos;row2&apos;]//input[@class=&apos;input-field&apos;]&quot;}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.28.1&apos;, revision: &apos;73f5ad48a2&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2de27a39d2b69894a542b90a424526d, findElement {value=//div[@id=&apos;row2&apos;]//input[@class=&apos;input-field&apos;], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49900}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49900/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2de27a39d2b69894a542b90a424526d
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source)
+	at pageObject.TestExceptionPage.input2sendkeys(TestExceptionPage.java:52)
+	at testCases.TC005_ElementNotInteractableExceptionTest.ElementNotInteractableExceptionTest(TC005_ElementNotInteractableExceptionTest.java:27)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 32 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">testCases.TC012_BrokenLinksTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="isBrokenLinkExist">
+                  </a> <!-- isBrokenLinkExist -->
+                  <span class="method-name">isBrokenLinkExist</span>
+                  <div class="stack-trace">java.lang.AssertionError: null
+	at testCases.TC012_BrokenLinksTest.isBrokenLinkExist(TC012_BrokenLinksTest.java:26)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">testCases.TC010_ContactFormTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="contactform">
+                  </a> <!-- contactform -->
+                  <span class="method-name">contactform</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;button type=&quot;submit&quot; name=&quot;wpforms[submit]&quot; id=&quot;wpforms-submit-161&quot; class=&quot;wpforms-submit&quot; data-alt-text=&quot;Sending...&quot; data-submit-text=&quot;...&quot; aria-live=&quot;assertive&quot; value=&quot;wpforms-submit&quot;&gt;Submit&lt;/button&gt; is not clickable at point (640, 635). Other element would receive the click: &lt;div style=&quot;width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;&quot;&gt;&lt;/div&gt;
+  (Session info: chrome=134.0.6998.118)
+Build info: version: &apos;4.28.1&apos;, revision: &apos;73f5ad48a2&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3370578b8b83cd3442a20cf501b5e92d, clickElement {id=f.F73A10F525B2E0908BD8ECD515C09A3F.d.D5E945002B78C05016B58B7C5371BD15.e.52}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50097}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50097/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3370578b8b83cd3442a20cf501b5e92d)] -&gt; xpath: //button[@type=&apos;submit&apos;]]
+Session ID: 3370578b8b83cd3442a20cf501b5e92d
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
+	at pageObject.ContactPage.clicksubmit(ContactPage.java:70)
+	at testCases.TC010_ContactFormTest.contactform(TC010_ContactFormTest.java:29)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 34 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC011_ContactFormDDTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="contactform(, shah, s@gmail.com, I am student, Invalid)">
+                  </a> <!-- contactform(, shah, s@gmail.com, I am student, Invalid) -->
+                  <span class="method-name">contactform</span>
+                  <span class="parameters">(,shah,s@gmail.com,I am student,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="contactform(jay, , j@gmail.com, I am teacher, Invalid)">
+                  </a> <!-- contactform(jay, , j@gmail.com, I am teacher, Invalid) -->
+                  <span class="method-name">contactform</span>
+                  <span class="parameters">(jay,,j@gmail.com,I am teacher,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="contactform(brijesha, patel, b@gmail.com, , invalid)">
+                  </a> <!-- contactform(brijesha, patel, b@gmail.com, , invalid) -->
+                  <span class="method-name">contactform</span>
+                  <span class="parameters">(brijesha,patel,b@gmail.com,,invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="contactform(meera, Patel, m.com, I am teacher, Invalid)">
+                  </a> <!-- contactform(meera, Patel, m.com, I am teacher, Invalid) -->
+                  <span class="method-name">contactform</span>
+                  <span class="parameters">(meera,Patel,m.com,I am teacher,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="contactform(raj, patel, r@gmail.com, I am student, Valid)">
+                  </a> <!-- contactform(raj, patel, r@gmail.com, I am student, Valid) -->
+                  <span class="method-name">contactform</span>
+                  <span class="parameters">(raj,patel,r@gmail.com,I am student,Valid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="contactform(kabie, Patel, , I am student, Invalid)">
+                  </a> <!-- contactform(kabie, Patel, , I am student, Invalid) -->
+                  <span class="method-name">contactform</span>
+                  <span class="parameters">(kabie,Patel,,I am student,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC006_InvalidElementStateExceptionTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="disabledinput">
+                  </a> <!-- disabledinput -->
+                  <span class="method-name">disabledinput</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC008_TimeoutExceptionTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifysecondinputDisplayed">
+                  </a> <!-- verifysecondinputDisplayed -->
+                  <span class="method-name">verifysecondinputDisplayed</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC003_NegativePasswordTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="negativepassword">
+                  </a> <!-- negativepassword -->
+                  <span class="method-name">negativepassword</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC004_NoSuchElementExceptionTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyrow2input">
+                  </a> <!-- verifyrow2input -->
+                  <span class="method-name">verifyrow2input</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC007_StaleElementReferenceExceptionTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyinstuctiondisremoved">
+                  </a> <!-- verifyinstuctiondisremoved -->
+                  <span class="method-name">verifyinstuctiondisremoved</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC009_LoginDDTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="dtdlogin(student, xyz123, Invalid)">
+                  </a> <!-- dtdlogin(student, xyz123, Invalid) -->
+                  <span class="method-name">dtdlogin</span>
+                  <span class="parameters">(student,xyz123,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="dtdlogin(abc, Password123, Invalid)">
+                  </a> <!-- dtdlogin(abc, Password123, Invalid) -->
+                  <span class="method-name">dtdlogin</span>
+                  <span class="parameters">(abc,Password123,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="dtdlogin(student, Password123, Valid)">
+                  </a> <!-- dtdlogin(student, Password123, Valid) -->
+                  <span class="method-name">dtdlogin</span>
+                  <span class="parameters">(student,Password123,Valid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="dtdlogin(, pqr1, Invalid)">
+                  </a> <!-- dtdlogin(, pqr1, Invalid) -->
+                  <span class="method-name">dtdlogin</span>
+                  <span class="parameters">(,pqr1,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="dtdlogin(std, , Invalid)">
+                  </a> <!-- dtdlogin(std, , Invalid) -->
+                  <span class="method-name">dtdlogin</span>
+                  <span class="parameters">(std,,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="dtdlogin(prq, , Invalid)">
+                  </a> <!-- dtdlogin(prq, , Invalid) -->
+                  <span class="method-name">dtdlogin</span>
+                  <span class="parameters">(prq,,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -136,16 +540,16 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="verifyurl">
-                  </a> <!-- verifyurl -->
-                  <span class="method-name">verifyurl</span>
+                  <a name="logoutbtncheck">
+                  </a> <!-- logoutbtncheck -->
+                  <span class="method-name">logoutbtncheck</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="verifyurl">
-                  </a> <!-- verifyurl -->
-                  <span class="method-name">verifyurl</span>
+                  <a name="verifycongratulationmsg">
+                  </a> <!-- verifycongratulationmsg -->
+                  <span class="method-name">verifycongratulationmsg</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -157,10 +561,25 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC002_NegativeUserNameTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="negativeusername">
+                  </a> <!-- negativeusername -->
+                  <span class="method-name">negativeusername</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">E:\java\selenium\webdriver\PracticeAutomation\PLT01.xml</span>
+            <span class="header-content">E:\java\selenium\webdriver\PracticeAutomation\Master.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -175,22 +594,19 @@
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TC001_PositiveLoginTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC002_NegativeUserNameTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC003_NegativePasswordTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC004_NoSuchElementExceptionTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC005_ElementNotInteractableExceptionTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC006_InvalidElementStateExceptionTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC007_StaleElementReferenceExceptionTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC008_TimeoutExceptionTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC009_LoginDDTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC010_ContactFormTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC011_ContactFormDDTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC012_BrokenLinksTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Testchrome --&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Testedge&quot; verbose=&quot;0&quot;&gt;
-    &lt;parameter name=&quot;os&quot; value=&quot;window&quot;/&gt;
-    &lt;parameter name=&quot;browser&quot; value=&quot;edge&quot;/&gt;
-    &lt;classes&gt;
-      &lt;class name=&quot;testCases.TC001_PositiveLoginTest&quot;/&gt;
-    &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Testedge --&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Testfirefox&quot; verbose=&quot;0&quot;&gt;
-    &lt;parameter name=&quot;os&quot; value=&quot;window&quot;/&gt;
-    &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
-    &lt;classes&gt;
-      &lt;class name=&quot;testCases.TC001_PositiveLoginTest&quot;/&gt;
-    &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Testfirefox --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -202,13 +618,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Testchrome (1 class)</span>
-              </li>
-              <li>
-                <span class="test-name">Testedge (1 class)</span>
-              </li>
-              <li>
-                <span class="test-name">Testfirefox (1 class)</span>
+                <span class="test-name">Testchrome (12 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -234,24 +644,108 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(3);
+data.addRows(24);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'verifyurl')
-data.setCell(0, 2, 'testCases.TC001_PositiveLoginTest')
-data.setCell(0, 3, 1438);
+data.setCell(0, 1, 'isBrokenLinkExist')
+data.setCell(0, 2, 'testCases.TC012_BrokenLinksTest')
+data.setCell(0, 3, 35585);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'verifyurl')
-data.setCell(1, 2, 'testCases.TC001_PositiveLoginTest')
-data.setCell(1, 3, 989);
+data.setCell(1, 1, 'contactform')
+data.setCell(1, 2, 'testCases.TC011_ContactFormDDTest')
+data.setCell(1, 3, 33261);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'verifyurl')
-data.setCell(2, 2, 'testCases.TC001_PositiveLoginTest')
-data.setCell(2, 3, 940);
+data.setCell(2, 1, 'contactform')
+data.setCell(2, 2, 'testCases.TC011_ContactFormDDTest')
+data.setCell(2, 3, 33140);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'contactform')
+data.setCell(3, 2, 'testCases.TC011_ContactFormDDTest')
+data.setCell(3, 3, 33078);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'contactform')
+data.setCell(4, 2, 'testCases.TC011_ContactFormDDTest')
+data.setCell(4, 3, 32982);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'contactform')
+data.setCell(5, 2, 'testCases.TC011_ContactFormDDTest')
+data.setCell(5, 3, 32238);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'contactform')
+data.setCell(6, 2, 'testCases.TC011_ContactFormDDTest')
+data.setCell(6, 3, 27667);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'contactform')
+data.setCell(7, 2, 'testCases.TC010_ContactFormTest')
+data.setCell(7, 3, 20978);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'verifyrow2input')
+data.setCell(8, 2, 'testCases.TC004_NoSuchElementExceptionTest')
+data.setCell(8, 3, 7422);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'verifyinstuctiondisremoved')
+data.setCell(9, 2, 'testCases.TC007_StaleElementReferenceExceptionTest')
+data.setCell(9, 3, 7150);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'verifysecondinputDisplayed')
+data.setCell(10, 2, 'testCases.TC008_TimeoutExceptionTest')
+data.setCell(10, 3, 6163);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'ElementNotInteractableExceptionTest')
+data.setCell(11, 2, 'testCases.TC005_ElementNotInteractableExceptionTest')
+data.setCell(11, 3, 6097);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'negativeusername')
+data.setCell(12, 2, 'testCases.TC002_NegativeUserNameTest')
+data.setCell(12, 3, 4538);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'disabledinput')
+data.setCell(13, 2, 'testCases.TC006_InvalidElementStateExceptionTest')
+data.setCell(13, 3, 3377);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'dtdlogin')
+data.setCell(14, 2, 'testCases.TC009_LoginDDTest')
+data.setCell(14, 3, 1833);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'dtdlogin')
+data.setCell(15, 2, 'testCases.TC009_LoginDDTest')
+data.setCell(15, 3, 1724);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'negativepassword')
+data.setCell(16, 2, 'testCases.TC003_NegativePasswordTest')
+data.setCell(16, 3, 1642);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'dtdlogin')
+data.setCell(17, 2, 'testCases.TC009_LoginDDTest')
+data.setCell(17, 3, 1243);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'dtdlogin')
+data.setCell(18, 2, 'testCases.TC009_LoginDDTest')
+data.setCell(18, 3, 720);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'dtdlogin')
+data.setCell(19, 2, 'testCases.TC009_LoginDDTest')
+data.setCell(19, 3, 584);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'dtdlogin')
+data.setCell(20, 2, 'testCases.TC009_LoginDDTest')
+data.setCell(20, 3, 580);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'logoutbtncheck')
+data.setCell(21, 2, 'testCases.TC001_PositiveLoginTest')
+data.setCell(21, 3, 93);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'verifycongratulationmsg')
+data.setCell(22, 2, 'testCases.TC001_PositiveLoginTest')
+data.setCell(22, 3, 36);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'verifyurl')
+data.setCell(23, 2, 'testCases.TC001_PositiveLoginTest')
+data.setCell(23, 3, 11);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 3 seconds</span>
+              <span class="suite-total-time">Total running time: 4 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -282,37 +776,236 @@ return data;
                 <span class="method-name">setup(window, chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <span class="method-name">verifyurl</span>
-                <span class="method-start">5461 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">treardown</span>
-                <span class="method-start">6415 ms</span>
-              </div> <!-- configuration-class after -->
               <div class="configuration-class before">
-                <span class="method-name">setup(window, edge)</span>
-                <span class="method-start">7007 ms</span>
+                <span class="method-name">logintoapp</span>
+                <span class="method-start">11553 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">verifyurl</span>
-                <span class="method-start">13544 ms</span>
+                <span class="method-name">logoutbtncheck</span>
+                <span class="method-start">14496 ms</span>
               </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">treardown</span>
-                <span class="method-start">14534 ms</span>
-              </div> <!-- configuration-class after -->
-              <div class="configuration-class before">
-                <span class="method-name">setup(window, firefox)</span>
-                <span class="method-start">15860 ms</span>
-              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verifycongratulationmsg</span>
+                <span class="method-start">14605 ms</span>
+              </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verifyurl</span>
-                <span class="method-start">23910 ms</span>
+                <span class="method-start">14642 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">treardown</span>
-                <span class="method-start">25349 ms</span>
+                <span class="method-start">14654 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC002_NegativeUserNameTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">14870 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">negativeusername</span>
+                <span class="method-start">18637 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">23176 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC003_NegativePasswordTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">23328 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">negativepassword</span>
+                <span class="method-start">28788 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">30430 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC004_NoSuchElementExceptionTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">30583 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verifyrow2input</span>
+                <span class="method-start">35794 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">43218 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC005_ElementNotInteractableExceptionTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">43472 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">ElementNotInteractableExceptionTest</span>
+                <span class="method-start">47350 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">53660 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC006_InvalidElementStateExceptionTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">53835 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">disabledinput</span>
+                <span class="method-start">59236 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">62614 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC007_StaleElementReferenceExceptionTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">62787 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verifyinstuctiondisremoved</span>
+                <span class="method-start">67777 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">74928 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC008_TimeoutExceptionTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">76640 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verifysecondinputDisplayed</span>
+                <span class="method-start">81905 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">88069 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC009_LoginDDTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">88219 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">dtdlogin(std, , Invalid)</span>
+                <span class="method-start">95810 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">dtdlogin(student, Password123, Valid)</span>
+                <span class="method-start">97645 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">dtdlogin(abc, Password123, Invalid)</span>
+                <span class="method-start">99370 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">dtdlogin(student, xyz123, Invalid)</span>
+                <span class="method-start">100614 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">dtdlogin(, pqr1, Invalid)</span>
+                <span class="method-start">101200 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">dtdlogin(prq, , Invalid)</span>
+                <span class="method-start">101781 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">102501 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC010_ContactFormTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">102675 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">contactform</span>
+                <span class="method-start">107414 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">128624 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC011_ContactFormDDTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">128842 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">contactform(raj, patel, r@gmail.com, I am student, Valid)</span>
+                <span class="method-start">134793 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">contactform(, shah, s@gmail.com, I am student, Invalid)</span>
+                <span class="method-start">162462 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">contactform(jay, , j@gmail.com, I am teacher, Invalid)</span>
+                <span class="method-start">194700 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">contactform(kabie, Patel, , I am student, Invalid)</span>
+                <span class="method-start">227684 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">contactform(meera, Patel, m.com, I am teacher, Invalid)</span>
+                <span class="method-start">260825 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">contactform(brijesha, patel, b@gmail.com, , invalid)</span>
+                <span class="method-start">293904 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">327166 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC012_BrokenLinksTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(window, chrome)</span>
+                <span class="method-start">327564 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">isBrokenLinkExist</span>
+                <span class="method-start">332844 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">treardown</span>
+                <span class="method-start">368702 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

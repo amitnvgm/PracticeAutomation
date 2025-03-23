@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Testchrome</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>21/3/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Mar 08 14:26:41 IST 2025</td>
+<td>Started on:</td><td>Sun Mar 23 13:06:16 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>6 seconds (6859 ms)</td>
+<tr><td>Total time:</td><td>369 seconds (369205 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,234 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testCases.TC005_ElementNotInteractableExceptionTest.ElementNotInteractableExceptionTest()'><b>ElementNotInteractableExceptionTest</b><br>Test class: testCases.TC005_ElementNotInteractableExceptionTest</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@id=&apos;row2&apos;]//input[@class=&apos;input-field&apos;]&quot;}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.28.1&apos;, revision: &apos;73f5ad48a2&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2de27a39d2b69894a542b90a424526d, findElement {value=//div[@id=&apos;row2&apos;]//input[@class=&apos;input-field&apos;], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49900}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49900/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2de27a39d2b69894a542b90a424526d
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source)
+	at pageObject.TestExceptionPage.input2sendkeys(TestExceptionPage.java:52)
+	at testCases.TC005_ElementNotInteractableExceptionTest.ElementNotInteractableExceptionTest(TC005_ElementNotInteractableExceptionTest.java:27)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 32 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace240641494", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace240641494'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@id=&apos;row2&apos;]//input[@class=&apos;input-field&apos;]&quot;}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.28.1&apos;, revision: &apos;73f5ad48a2&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2de27a39d2b69894a542b90a424526d, findElement {value=//div[@id=&apos;row2&apos;]//input[@class=&apos;input-field&apos;], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49900}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49900/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2de27a39d2b69894a542b90a424526d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source)
+	at pageObject.TestExceptionPage.input2sendkeys(TestExceptionPage.java:52)
+	at testCases.TC005_ElementNotInteractableExceptionTest.ElementNotInteractableExceptionTest(TC005_ElementNotInteractableExceptionTest.java:27)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+</pre></div></td>
+<td>6</td>
+<td>testCases.TC005_ElementNotInteractableExceptionTest@36328d33</td></tr>
+<tr>
+<td title='testCases.TC012_BrokenLinksTest.isBrokenLinkExist()'><b>isBrokenLinkExist</b><br>Test class: testCases.TC012_BrokenLinksTest</td>
+<td><div><pre>java.lang.AssertionError: null
+	at testCases.TC012_BrokenLinksTest.isBrokenLinkExist(TC012_BrokenLinksTest.java:26)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace92686444", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace92686444'><pre>java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.fail(Assert.java:116)
+	at testCases.TC012_BrokenLinksTest.isBrokenLinkExist(TC012_BrokenLinksTest.java:26)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+</pre></div></td>
+<td>35</td>
+<td>testCases.TC012_BrokenLinksTest@49ff7d8c</td></tr>
+<tr>
+<td title='testCases.TC010_ContactFormTest.contactform()'><b>contactform</b><br>Test class: testCases.TC010_ContactFormTest</td>
+<td><div><pre>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;button type=&quot;submit&quot; name=&quot;wpforms[submit]&quot; id=&quot;wpforms-submit-161&quot; class=&quot;wpforms-submit&quot; data-alt-text=&quot;Sending...&quot; data-submit-text=&quot;...&quot; aria-live=&quot;assertive&quot; value=&quot;wpforms-submit&quot;&gt;Submit&lt;/button&gt; is not clickable at point (640, 635). Other element would receive the click: &lt;div style=&quot;width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;&quot;&gt;&lt;/div&gt;
+  (Session info: chrome=134.0.6998.118)
+Build info: version: &apos;4.28.1&apos;, revision: &apos;73f5ad48a2&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3370578b8b83cd3442a20cf501b5e92d, clickElement {id=f.F73A10F525B2E0908BD8ECD515C09A3F.d.D5E945002B78C05016B58B7C5371BD15.e.52}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50097}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50097/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3370578b8b83cd3442a20cf501b5e92d)] -&gt; xpath: //button[@type=&apos;submit&apos;]]
+Session ID: 3370578b8b83cd3442a20cf501b5e92d
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
+	at pageObject.ContactPage.clicksubmit(ContactPage.java:70)
+	at testCases.TC010_ContactFormTest.contactform(TC010_ContactFormTest.java:29)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 34 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace627677863", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace627677863'><pre>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;button type=&quot;submit&quot; name=&quot;wpforms[submit]&quot; id=&quot;wpforms-submit-161&quot; class=&quot;wpforms-submit&quot; data-alt-text=&quot;Sending...&quot; data-submit-text=&quot;...&quot; aria-live=&quot;assertive&quot; value=&quot;wpforms-submit&quot;&gt;Submit&lt;/button&gt; is not clickable at point (640, 635). Other element would receive the click: &lt;div style=&quot;width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;&quot;&gt;&lt;/div&gt;
+  (Session info: chrome=134.0.6998.118)
+Build info: version: &apos;4.28.1&apos;, revision: &apos;73f5ad48a2&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3370578b8b83cd3442a20cf501b5e92d, clickElement {id=f.F73A10F525B2E0908BD8ECD515C09A3F.d.D5E945002B78C05016B58B7C5371BD15.e.52}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50097}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50097/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3370578b8b83cd3442a20cf501b5e92d)] -&gt; xpath: //button[@type=&apos;submit&apos;]]
+Session ID: 3370578b8b83cd3442a20cf501b5e92d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source)
+	at pageObject.ContactPage.clicksubmit(ContactPage.java:70)
+	at testCases.TC010_ContactFormTest.contactform(TC010_ContactFormTest.java:29)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+</pre></div></td>
+<td>20</td>
+<td>testCases.TC010_ContactFormTest@524f3b3a</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -76,10 +304,110 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
+<td title='testCases.TC008_TimeoutExceptionTest.verifysecondinputDisplayed()'><b>verifysecondinputDisplayed</b><br>Test class: testCases.TC008_TimeoutExceptionTest</td>
+<td></td>
+<td>6</td>
+<td>testCases.TC008_TimeoutExceptionTest@545b995e</td></tr>
+<tr>
+<td title='testCases.TC009_LoginDDTest.dtdlogin()'><b>dtdlogin</b><br>Test class: testCases.TC009_LoginDDTest<br>Parameters: student, xyz123, Invalid</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC009_LoginDDTest@76a2ddf3</td></tr>
+<tr>
+<td title='testCases.TC011_ContactFormDDTest.contactform()'><b>contactform</b><br>Test class: testCases.TC011_ContactFormDDTest<br>Parameters: , shah, s@gmail.com, I am student, Invalid</td>
+<td></td>
+<td>32</td>
+<td>testCases.TC011_ContactFormDDTest@41e68d87</td></tr>
+<tr>
+<td title='testCases.TC011_ContactFormDDTest.contactform()'><b>contactform</b><br>Test class: testCases.TC011_ContactFormDDTest<br>Parameters: jay, , j@gmail.com, I am teacher, Invalid</td>
+<td></td>
+<td>32</td>
+<td>testCases.TC011_ContactFormDDTest@41e68d87</td></tr>
+<tr>
+<td title='testCases.TC011_ContactFormDDTest.contactform()'><b>contactform</b><br>Test class: testCases.TC011_ContactFormDDTest<br>Parameters: brijesha, patel, b@gmail.com, , invalid</td>
+<td></td>
+<td>33</td>
+<td>testCases.TC011_ContactFormDDTest@41e68d87</td></tr>
+<tr>
+<td title='testCases.TC007_StaleElementReferenceExceptionTest.verifyinstuctiondisremoved()'><b>verifyinstuctiondisremoved</b><br>Test class: testCases.TC007_StaleElementReferenceExceptionTest</td>
+<td></td>
+<td>7</td>
+<td>testCases.TC007_StaleElementReferenceExceptionTest@7f0d96f2</td></tr>
+<tr>
+<td title='testCases.TC004_NoSuchElementExceptionTest.verifyrow2input()'><b>verifyrow2input</b><br>Test class: testCases.TC004_NoSuchElementExceptionTest</td>
+<td></td>
+<td>7</td>
+<td>testCases.TC004_NoSuchElementExceptionTest@c94fd30</td></tr>
+<tr>
+<td title='testCases.TC009_LoginDDTest.dtdlogin()'><b>dtdlogin</b><br>Test class: testCases.TC009_LoginDDTest<br>Parameters: abc, Password123, Invalid</td>
+<td></td>
+<td>1</td>
+<td>testCases.TC009_LoginDDTest@76a2ddf3</td></tr>
+<tr>
+<td title='testCases.TC011_ContactFormDDTest.contactform()'><b>contactform</b><br>Test class: testCases.TC011_ContactFormDDTest<br>Parameters: meera, Patel, m.com, I am teacher, Invalid</td>
+<td></td>
+<td>33</td>
+<td>testCases.TC011_ContactFormDDTest@41e68d87</td></tr>
+<tr>
+<td title='testCases.TC009_LoginDDTest.dtdlogin()'><b>dtdlogin</b><br>Test class: testCases.TC009_LoginDDTest<br>Parameters: student, Password123, Valid</td>
+<td></td>
+<td>1</td>
+<td>testCases.TC009_LoginDDTest@76a2ddf3</td></tr>
+<tr>
+<td title='testCases.TC011_ContactFormDDTest.contactform()'><b>contactform</b><br>Test class: testCases.TC011_ContactFormDDTest<br>Parameters: raj, patel, r@gmail.com, I am student, Valid</td>
+<td></td>
+<td>27</td>
+<td>testCases.TC011_ContactFormDDTest@41e68d87</td></tr>
+<tr>
+<td title='testCases.TC011_ContactFormDDTest.contactform()'><b>contactform</b><br>Test class: testCases.TC011_ContactFormDDTest<br>Parameters: kabie, Patel, , I am student, Invalid</td>
+<td></td>
+<td>33</td>
+<td>testCases.TC011_ContactFormDDTest@41e68d87</td></tr>
+<tr>
+<td title='testCases.TC009_LoginDDTest.dtdlogin()'><b>dtdlogin</b><br>Test class: testCases.TC009_LoginDDTest<br>Parameters: , pqr1, Invalid</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC009_LoginDDTest@76a2ddf3</td></tr>
+<tr>
+<td title='testCases.TC001_PositiveLoginTest.verifycongratulationmsg()'><b>verifycongratulationmsg</b><br>Test class: testCases.TC001_PositiveLoginTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC001_PositiveLoginTest@63fbfaeb</td></tr>
+<tr>
+<td title='testCases.TC006_InvalidElementStateExceptionTest.disabledinput()'><b>disabledinput</b><br>Test class: testCases.TC006_InvalidElementStateExceptionTest</td>
+<td></td>
+<td>3</td>
+<td>testCases.TC006_InvalidElementStateExceptionTest@2c4d1ac</td></tr>
+<tr>
+<td title='testCases.TC002_NegativeUserNameTest.negativeusername()'><b>negativeusername</b><br>Test class: testCases.TC002_NegativeUserNameTest</td>
+<td></td>
+<td>4</td>
+<td>testCases.TC002_NegativeUserNameTest@34c01041</td></tr>
+<tr>
+<td title='testCases.TC009_LoginDDTest.dtdlogin()'><b>dtdlogin</b><br>Test class: testCases.TC009_LoginDDTest<br>Parameters: std, , Invalid</td>
+<td></td>
+<td>1</td>
+<td>testCases.TC009_LoginDDTest@76a2ddf3</td></tr>
+<tr>
+<td title='testCases.TC009_LoginDDTest.dtdlogin()'><b>dtdlogin</b><br>Test class: testCases.TC009_LoginDDTest<br>Parameters: prq, , Invalid</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC009_LoginDDTest@76a2ddf3</td></tr>
+<tr>
+<td title='testCases.TC003_NegativePasswordTest.negativepassword()'><b>negativepassword</b><br>Test class: testCases.TC003_NegativePasswordTest</td>
+<td></td>
+<td>1</td>
+<td>testCases.TC003_NegativePasswordTest@76f4b65</td></tr>
+<tr>
 <td title='testCases.TC001_PositiveLoginTest.verifyurl()'><b>verifyurl</b><br>Test class: testCases.TC001_PositiveLoginTest</td>
 <td></td>
 <td>0</td>
-<td>testCases.TC001_PositiveLoginTest@2fd953a6</td></tr>
+<td>testCases.TC001_PositiveLoginTest@63fbfaeb</td></tr>
+<tr>
+<td title='testCases.TC001_PositiveLoginTest.logoutbtncheck()'><b>logoutbtncheck</b><br>Test class: testCases.TC001_PositiveLoginTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC001_PositiveLoginTest@63fbfaeb</td></tr>
 </table><p>
 </body>
 </html>

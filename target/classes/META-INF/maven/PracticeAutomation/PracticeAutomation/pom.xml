@@ -21,7 +21,7 @@
           
           <configuration>
           	<suiteXmlFiles>
-          		<suiteXmlFile>PLT01.xml</suiteXmlFile>
+          		<suiteXmlFile>Master.xml</suiteXmlFile>
           	</suiteXmlFiles>
           </configuration>
           
@@ -103,13 +103,8 @@
 	    <artifactId>commons-lang3</artifactId>
 	    <version>3.17.0</version>
 	</dependency>
-
-
-	<dependency>
-		<groupId>Opencart1</groupId>
-		<artifactId>Opencart1</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
+	
+	
   </dependencies>
   
 </project>
