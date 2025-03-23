@@ -8,13 +8,6 @@
     <parameter name="os" value="window"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC005_ElementNotInteractableExceptionTest">
-        <methods>
-          <include name="ElementNotInteractableExceptionTest"/>
-          <include name="setup"/>
-          <include name="treardown"/>
-        </methods>
-      </class> <!-- testCases.TC005_ElementNotInteractableExceptionTest -->
       <class name="testCases.TC012_BrokenLinksTest">
         <methods>
           <include name="setup"/>
@@ -29,6 +22,13 @@
           <include name="treardown"/>
         </methods>
       </class> <!-- testCases.TC010_ContactFormTest -->
+      <class name="testCases.TC011_ContactFormDDTest">
+        <methods>
+          <include name="setup"/>
+          <include name="treardown"/>
+          <include name="contactform" invocation-numbers="0 1 2 3 4 5"/>
+        </methods>
+      </class> <!-- testCases.TC011_ContactFormDDTest -->
     </classes>
   </test> <!-- Testchrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->
